@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GeodetaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="GeodetaModelStoreContainer">
+    <EntitySet Name="Area" EntityType="GeodetaModel.Store.Area" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Line" EntityType="GeodetaModel.Store.Line" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ListOfPoints" EntityType="GeodetaModel.Store.ListOfPoints" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Note" EntityType="GeodetaModel.Store.Note" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Point" EntityType="GeodetaModel.Store.Point" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="GeodetaModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User" EntityType="GeodetaModel.Store.User" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Area__UserId__5EBF139D" Association="GeodetaModel.Store.FK__Area__UserId__5EBF139D">
+      <End Role="User" EntitySet="User" />
+      <End Role="Area" EntitySet="Area" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Line__AreaId__6383C8BA" Association="GeodetaModel.Store.FK__Line__AreaId__6383C8BA">
+      <End Role="Area" EntitySet="Area" />
+      <End Role="Line" EntitySet="Line" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Line__NoteId__6477ECF3" Association="GeodetaModel.Store.FK__Line__NoteId__6477ECF3">
+      <End Role="Note" EntitySet="Note" />
+      <End Role="Line" EntitySet="Line" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListOfPoi__ID_li__6A30C649" Association="GeodetaModel.Store.FK__ListOfPoi__ID_li__6A30C649">
+      <End Role="Line" EntitySet="Line" />
+      <End Role="ListOfPoints" EntitySet="ListOfPoints" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListOfPoi__ID_po__6B24EA82" Association="GeodetaModel.Store.FK__ListOfPoi__ID_po__6B24EA82">
+      <End Role="Point" EntitySet="Point" />
+      <End Role="ListOfPoints" EntitySet="ListOfPoints" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Point__NoteId__6754599E" Association="GeodetaModel.Store.FK__Point__NoteId__6754599E">
+      <End Role="Note" EntitySet="Note" />
+      <End Role="Point" EntitySet="Point" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Area">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateMod" Type="datetime" Nullable="false" />
+    <Property Name="IsNewVersion" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Line">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AreaId" Type="int" Nullable="false" />
+    <Property Name="NoteId" Type="int" />
+  </EntityType>
+  <EntityType Name="ListOfPoints">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PointId" Type="int" Nullable="false" />
+    <Property Name="LineId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Note">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ContentNote" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Point">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CoordinateX" Type="float" Nullable="false" />
+    <Property Name="CoordinateY" Type="float" Nullable="false" />
+    <Property Name="NoteId" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Token" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__Area__UserId__5EBF139D">
+    <End Role="User" Type="GeodetaModel.Store.User" Multiplicity="1" />
+    <End Role="Area" Type="GeodetaModel.Store.Area" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Area">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Line__AreaId__6383C8BA">
+    <End Role="Area" Type="GeodetaModel.Store.Area" Multiplicity="1" />
+    <End Role="Line" Type="GeodetaModel.Store.Line" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Line">
+        <PropertyRef Name="AreaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Line__NoteId__6477ECF3">
+    <End Role="Note" Type="GeodetaModel.Store.Note" Multiplicity="0..1" />
+    <End Role="Line" Type="GeodetaModel.Store.Line" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Line">
+        <PropertyRef Name="NoteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListOfPoi__ID_li__6A30C649">
+    <End Role="Line" Type="GeodetaModel.Store.Line" Multiplicity="1" />
+    <End Role="ListOfPoints" Type="GeodetaModel.Store.ListOfPoints" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Line">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ListOfPoints">
+        <PropertyRef Name="LineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListOfPoi__ID_po__6B24EA82">
+    <End Role="Point" Type="GeodetaModel.Store.Point" Multiplicity="1" />
+    <End Role="ListOfPoints" Type="GeodetaModel.Store.ListOfPoints" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Point">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ListOfPoints">
+        <PropertyRef Name="PointId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Point__NoteId__6754599E">
+    <End Role="Note" Type="GeodetaModel.Store.Note" Multiplicity="0..1" />
+    <End Role="Point" Type="GeodetaModel.Store.Point" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Point">
+        <PropertyRef Name="NoteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

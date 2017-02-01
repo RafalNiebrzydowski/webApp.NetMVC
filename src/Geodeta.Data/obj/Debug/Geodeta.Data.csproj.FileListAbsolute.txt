@@ -1,0 +1,24 @@
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Debug\Geodeta.Data.dll.config
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Debug\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Debug\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Debug\EntityFramework.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Debug\EntityFramework.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\obj\Debug\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\obj\Debug\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\obj\Debug\Geodeta.Data.csprojResolveAssemblyReference.cache
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\bin\Debug\Geodeta.Data.dll.config
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\bin\Debug\Geodeta.Data.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\bin\Debug\Geodeta.Data.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\bin\Debug\EntityFramework.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\bin\Debug\EntityFramework.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\obj\Debug\Geodeta.Data.csprojResolveAssemblyReference.cache
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\obj\Debug\Geodeta.Data.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Data\obj\Debug\Geodeta.Data.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\bin\Debug\Geodeta.Data.dll.config
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\bin\Debug\Geodeta.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\bin\Debug\Geodeta.Data.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\bin\Debug\EntityFramework.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\bin\Debug\EntityFramework.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\obj\Debug\Geodeta.Data.csprojResolveAssemblyReference.cache
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\obj\Debug\Geodeta.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Data\obj\Debug\Geodeta.Data.pdb

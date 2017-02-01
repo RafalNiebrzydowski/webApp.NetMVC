@@ -1,0 +1,16 @@
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\Geodeta.Services.dll.config
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\Geodeta.Services.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\Geodeta.Services.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\EntityFramework.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\PagedList.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\PagedList.Mvc.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\EntityFramework.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\PagedList.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Release\PagedList.Mvc.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\obj\Release\Geodeta.Services.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\obj\Release\Geodeta.Services.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\obj\Release\Geodeta.Services.pdb

@@ -1,0 +1,5 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <StringProperty Name="Culture">pl-PL</StringProperty>
+  </GlobalSettings>
+</StyleCopSettings>

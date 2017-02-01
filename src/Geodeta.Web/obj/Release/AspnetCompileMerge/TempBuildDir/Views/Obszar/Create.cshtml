@@ -1,0 +1,125 @@
+﻿@model Geodeta.Services.Area
+
+@{
+    ViewBag.Title = "Tworzenie nowego obszaru";
+}
+<h2 style="margin-bottom: 2%">Tworzenie nowego obszaru</h2>
+<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBc4Jj-6nM0rC1hnfwNSYoZaCXm0EVK0EY">
+    </script>
+<script type="text/javascript" src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/src/infobox.js"></script>
+
+<!-- Styl dotyczący Google Maps -->
+<style>
+    #map_canvas img {
+        max-width: none;
+    }
+</style>
+
+<!-- Info window map -->
+<style>
+    .infoDiv {
+        height: 200px;
+        width: 300px;
+        -webkit-user-select: none;
+        background-color: white;
+    }
+</style>
+
+@using (Html.BeginForm("Create", "Obszar", FormMethod.Post, new { id = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Obszar</legend>
+        <div class="container">
+            <label>
+                Nazwa
+            </label>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+
+
+        <div id="map_canvas" style="height: 600px; margin-top: 3%"></div>
+        @Html.Partial("InfoButtons")
+
+        <p>
+            <button type="button" class="btn btn-default btn-circle btn-xl " value="Create" onclick="onFormSubmit()" style="margin-right: 5px; margin-top: 5%; margin-bottom: 5%; float: right"><i class="glyphicon glyphicon-ok"></i></button>
+
+            <button type="button" class="btn btn-default btn-circle btn-xl " style="margin-right:5px;margin-top:5%;margin-bottom:5%; float:left" onclick="location.href='@Url.Action("Index", "Obszar")';return false;"><i class="glyphicon glyphicon-arrow-left"></i></button>
+
+        </p>
+    </fieldset>
+    //Modal edit window
+    @Html.Partial("ModalWindowEditNotePoint")
+    @Html.Partial("ModalWindowAddNotePoint")
+    @Html.Partial("ModalWindowEditNoteLine")
+    @Html.Partial("ModalWindowAddNoteLine")
+    @Html.Partial("Alert")
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/createview")
+    <section class="scripts">
+
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+                Initialize();
+            });
+            var poly, map;
+            var id2 = 0;
+            var lines = [];
+            var markers = [];
+            var notes = [];
+            var diagonal = [];
+            var press = false;
+            var noteid, titlenote, textnote;
+            var noteTitleLine = [];
+            var noteContentLine = [];
+            var noteTitlePoint = [];
+            var noteContentPoint = [];
+            var existline = false;
+            var linesremove = false;
+            var editnote = false;
+            var path = new google.maps.MVCArray;
+
+            function onFormSubmit() {
+                if (markers.length > 1) {
+                    var id;
+                    $.ajax({
+                        url: '/Obszar/Create',
+                        type: 'POST',
+                        data: $("#form").serialize(),
+                        success: function (response) {
+                            if (response.Success) {
+                                id = response.id2;
+                                window.location.href = '@Url.Action("Index", "Obszar")'
+                                createPoint(id);
+                            }
+                            else {
+                                $("#form").submit();
+                            }
+
+                        }
+                    });
+                }
+                else {
+                    jQuery.noConflict();
+                    $('#Alert').modal('show');
+                }
+            }
+            
+        </script>
+    </section>
+}

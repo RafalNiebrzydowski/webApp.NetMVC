@@ -1,0 +1,92 @@
+﻿@model Geodeta.Services.User
+
+@{
+    ViewBag.Title = "Moje konto";
+}
+<h2>Moje konto</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>C_User</legend>
+
+        @Html.HiddenFor(model => model.ID)
+        @Html.HiddenFor(model => model.Password)
+        @Html.HiddenFor(model => model.Email)
+        @Html.HiddenFor(model => model.Token)
+        <label>
+            Imię
+        </label>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+        </div>
+
+        <label>
+            Nazwisko
+        </label>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LastName)
+            @Html.ValidationMessageFor(model => model.LastName)
+        </div>
+        <div style="margin-top:1%; margin-bottom:2%">
+
+            <label style="font-size: 14px;display: block;">
+                <input type="checkbox" id="CheckboxChangePassword" name="CheckboxChangePassword" value="true" style="margin-right:7px;"/>Zmiana hasła
+            </label>
+            <div class="containerdropdown" id="zmianahasla">
+
+                <label style="margin-right:7.4%;">
+                    Nowe hasło 
+                </label>
+                @Html.EditorFor(model => model.NewPassword)
+                @Html.ValidationMessageFor(model => model.NewPassword)
+                <p style="margin-top:1%;">
+                <label>
+                    Potwierdź nowe hasło 
+                </label>
+                @Html.EditorFor(model => model.NewConfirmedPassword)
+                @Html.ValidationMessageFor(model => model.NewConfirmedPassword)
+                    </p>
+            </div>
+        </div>
+
+        
+        <p>
+            <button type="submit" class="btn btn-default btn-circle btn-xl " value="Save" style="margin-right: 5px; margin-top: 10px; margin-bottom: 5%; float: right"><i class="glyphicon glyphicon-ok"></i></button>
+
+            <button type="button" class="btn btn-default btn-circle btn-xl " style="margin-right:5px;margin-top:10px;margin-bottom:5%; float:left" onclick="location.href='@Url.Action("Index", "Home")';return false;"><i class="glyphicon glyphicon-arrow-left"></i></button>
+
+        </p>
+
+    </fieldset>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+    <section class="scripts">
+
+        <script type="text/javascript">
+
+
+            $(document).ready(function () {
+                if (document.getElementById('CheckboxChangePassword').checked == true) { document.getElementById('CheckboxChangePassword').checked = false;}
+                $("#CheckboxChangePassword").click(function () {
+                    $("#zmianahasla").toggle('slide', {
+                        duration: 100,
+                        easing: 'easeOutBounce',
+                        direction: 'up'
+                    });
+
+
+                });
+            });
+        </script>
+    </section>
+}

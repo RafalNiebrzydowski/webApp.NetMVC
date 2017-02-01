@@ -1,0 +1,177 @@
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Inzynierka.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Inzynierka.pdb
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Antlr3.Runtime.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.AspNet.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.Core.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\EntityFramework.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Geodeta.Data.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Geodeta.Services.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Data.Edm.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Data.OData.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Web.Infrastructure.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Newtonsoft.Json.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Net.Http.Formatting.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Spatial.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Helpers.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Http.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Http.OData.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Http.WebHost.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Mvc.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Optimization.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Razor.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.WebPages.Deployment.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.WebPages.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.WebPages.Razor.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\WebGrease.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\WebMatrix.Data.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\WebMatrix.WebData.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Geodeta.Data.pdb
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Geodeta.Services.pdb
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\EntityFramework.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Newtonsoft.Json.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Net.Http.Formatting.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Helpers.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Http.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Http.WebHost.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Mvc.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Razor.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.WebPages.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.WebPages.Deployment.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.WebPages.Razor.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\WebMatrix.Data.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\WebMatrix.WebData.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.AspNet.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.Core.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Web.Http.OData.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Data.Edm.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\Microsoft.Data.OData.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\System.Spatial.xml
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\de\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\es\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\fr\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\it\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ja\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ko\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ru\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\de\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\es\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\fr\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\it\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ja\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ko\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ru\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\de\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\es\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\fr\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\it\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ja\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ko\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\ru\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\zh-Hans\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\bin\zh-Hant\System.Spatial.resources.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\obj\Debug\Inzynierka.csprojResolveAssemblyReference.cache
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\obj\Debug\Inzynierka.dll
+I:\Inzynierka-projekty\Inzynierka\Inzynierka\obj\Debug\Inzynierka.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Inzynierka.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Inzynierka.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Antlr3.Runtime.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.Core.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\EntityFramework.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Services.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.Edm.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.OData.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Newtonsoft.Json.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.Mvc.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Spatial.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Helpers.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.OData.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Mvc.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Optimization.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Razor.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebGrease.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.WebData.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Services.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\EntityFramework.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.Mvc.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Newtonsoft.Json.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Helpers.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Mvc.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Razor.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.Data.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.WebData.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.Core.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.OData.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.Edm.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.OData.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Spatial.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\de\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\es\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\fr\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\it\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ja\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ko\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ru\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Inzynierka.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Inzynierka.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Inzynierka.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Mvc.Mailer.dll

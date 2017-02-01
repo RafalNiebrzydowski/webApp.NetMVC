@@ -1,0 +1,48 @@
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\Geodeta.Services.dll.config
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\Geodeta.Services.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\Geodeta.Services.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\EntityFramework.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\PagedList.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\PagedList.Mvc.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\EntityFramework.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\PagedList.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\bin\Debug\PagedList.Mvc.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\obj\Debug\Geodeta.Services.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\obj\Debug\Geodeta.Services.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Services\obj\Debug\Geodeta.Services.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Services.dll.config
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Services.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Services.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Data.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.Mvc.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Data.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.Mvc.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\obj\Debug\Geodeta.Services.csprojResolveAssemblyReference.cache
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\obj\Debug\Geodeta.Services.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Geodeta.Services\obj\Debug\Geodeta.Services.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Services.dll.config
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Services.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Services.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.Mvc.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\Geodeta.Data.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\bin\Debug\PagedList.Mvc.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\obj\Debug\Geodeta.Services.csprojResolveAssemblyReference.cache
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\obj\Debug\Geodeta.Services.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Services\obj\Debug\Geodeta.Services.pdb

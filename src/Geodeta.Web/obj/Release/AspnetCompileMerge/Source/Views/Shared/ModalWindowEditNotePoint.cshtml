@@ -1,0 +1,24 @@
+﻿<div class="modal fade" id="EdycjaNotatki" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Edycja notatki</h4>
+                </div>
+                <label class="col-md-3 control-label" for="tytul">Tytuł</label>
+                <div class="col-md-9">
+                    <input id="tytul" name="tytul" type="text" class="form-control">
+                </div>
+
+                <label class="col-md-3 control-label" for="tekst">Tekst</label>
+                <div class="col-md-9">
+                    <textarea class="form-control" id="tekst" name="tekst" rows="5"></textarea>
+                </div>
+                <input type="hidden" id="EditId" />
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Anuluj</button>
+                    <button type="button" class="btn btn-primary" onclick="EditNote()">Zapisz</button>
+                </div>
+            </div>
+        </div>
+    </div>

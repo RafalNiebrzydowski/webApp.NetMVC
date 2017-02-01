@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodeta.Web", "Geodeta.Web\Geodeta.Web.csproj", "{5B15F2F0-B668-49D5-A7A5-443835B3C1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodeta.Services", "Geodeta.Services\Geodeta.Services.csproj", "{C1FE6481-55C2-40CB-A8DE-D054BD4E09E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodeta.Data", "Geodeta.Data\Geodeta.Data.csproj", "{D8A32AD9-FB4C-4403-BB1C-29E1DE94CBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B15F2F0-B668-49D5-A7A5-443835B3C1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B15F2F0-B668-49D5-A7A5-443835B3C1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B15F2F0-B668-49D5-A7A5-443835B3C1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B15F2F0-B668-49D5-A7A5-443835B3C1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FE6481-55C2-40CB-A8DE-D054BD4E09E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FE6481-55C2-40CB-A8DE-D054BD4E09E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FE6481-55C2-40CB-A8DE-D054BD4E09E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FE6481-55C2-40CB-A8DE-D054BD4E09E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A32AD9-FB4C-4403-BB1C-29E1DE94CBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A32AD9-FB4C-4403-BB1C-29E1DE94CBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A32AD9-FB4C-4403-BB1C-29E1DE94CBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A32AD9-FB4C-4403-BB1C-29E1DE94CBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

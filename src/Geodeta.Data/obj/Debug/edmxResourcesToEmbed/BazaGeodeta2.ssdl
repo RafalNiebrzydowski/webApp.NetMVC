@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GeodetaModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Area">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DateMod" Type="datetime" Nullable="false" />
+    <Property Name="IsNewVersion" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Line">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AreaId" Type="int" Nullable="false" />
+    <Property Name="NoteId" Type="int" />
+  </EntityType>
+  <EntityType Name="ListOfPoints">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PointId" Type="int" Nullable="false" />
+    <Property Name="LineId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Note">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContentNote" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Point">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CoordinateX" Type="float" Nullable="false" />
+    <Property Name="CoordinateY" Type="float" Nullable="false" />
+    <Property Name="NoteId" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Token" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Area__UserId__5EBF139D">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Area" Type="Self.Area" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Area">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Line__AreaId__6383C8BA">
+    <End Role="Area" Type="Self.Area" Multiplicity="1" />
+    <End Role="Line" Type="Self.Line" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Line">
+        <PropertyRef Name="AreaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Line__NoteId__6477ECF3">
+    <End Role="Note" Type="Self.Note" Multiplicity="0..1" />
+    <End Role="Line" Type="Self.Line" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Line">
+        <PropertyRef Name="NoteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListOfPoi__ID_li__6A30C649">
+    <End Role="Line" Type="Self.Line" Multiplicity="1" />
+    <End Role="ListOfPoints" Type="Self.ListOfPoints" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Line">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ListOfPoints">
+        <PropertyRef Name="LineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ListOfPoi__ID_po__6B24EA82">
+    <End Role="Point" Type="Self.Point" Multiplicity="1" />
+    <End Role="ListOfPoints" Type="Self.ListOfPoints" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Point">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ListOfPoints">
+        <PropertyRef Name="PointId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Point__NoteId__6754599E">
+    <End Role="Note" Type="Self.Note" Multiplicity="0..1" />
+    <End Role="Point" Type="Self.Point" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Note">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Point">
+        <PropertyRef Name="NoteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GeodetaModel1StoreContainer">
+    <EntitySet Name="Area" EntityType="Self.Area" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Line" EntityType="Self.Line" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ListOfPoints" EntityType="Self.ListOfPoints" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Note" EntityType="Self.Note" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Point" EntityType="Self.Point" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Area__UserId__5EBF139D" Association="Self.FK__Area__UserId__5EBF139D">
+      <End Role="User" EntitySet="User" />
+      <End Role="Area" EntitySet="Area" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Line__AreaId__6383C8BA" Association="Self.FK__Line__AreaId__6383C8BA">
+      <End Role="Area" EntitySet="Area" />
+      <End Role="Line" EntitySet="Line" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Line__NoteId__6477ECF3" Association="Self.FK__Line__NoteId__6477ECF3">
+      <End Role="Note" EntitySet="Note" />
+      <End Role="Line" EntitySet="Line" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListOfPoi__ID_li__6A30C649" Association="Self.FK__ListOfPoi__ID_li__6A30C649">
+      <End Role="Line" EntitySet="Line" />
+      <End Role="ListOfPoints" EntitySet="ListOfPoints" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ListOfPoi__ID_po__6B24EA82" Association="Self.FK__ListOfPoi__ID_po__6B24EA82">
+      <End Role="Point" EntitySet="Point" />
+      <End Role="ListOfPoints" EntitySet="ListOfPoints" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Point__NoteId__6754599E" Association="Self.FK__Point__NoteId__6754599E">
+      <End Role="Note" EntitySet="Note" />
+      <End Role="Point" EntitySet="Point" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

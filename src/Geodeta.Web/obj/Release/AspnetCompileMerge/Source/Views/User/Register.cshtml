@@ -1,0 +1,64 @@
+﻿@model Geodeta.Services.User
+
+@{
+    ViewBag.Title = "Rejestracja";
+}
+
+<h2>Rejestracja</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>C_User</legend>
+
+
+        <label>
+            E-mail
+        </label>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+
+        <label>
+           Hasło
+        </label>
+        <div class="editor-field">
+            @Html.PasswordFor(model => model.Password)
+            @Html.ValidationMessageFor(model => model.Password)
+        </div>
+
+        <label>
+            Imię
+        </label>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+        </div>
+
+        <label>
+            Nazwisko
+        </label>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LastName)
+            @Html.ValidationMessageFor(model => model.LastName)
+        </div>
+
+        
+
+        <p >
+            
+            <button type="submit" value="Register" style="margin-right:5px;margin-top:5%;margin-bottom:5%; float:right" class="btn btn-default btn-circle btn-xl" ><i class="glyphicon glyphicon-ok"></i></button>
+            <button type="button" class="btn btn-default btn-circle btn-xl " style="margin-right:5px;margin-top:5%;margin-bottom:5%; float:left" onclick="location.href='@Url.Action("Index", "Home")';return false;"><i class="glyphicon glyphicon-arrow-left"></i></button>
+  
+        </p>
+    </fieldset>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

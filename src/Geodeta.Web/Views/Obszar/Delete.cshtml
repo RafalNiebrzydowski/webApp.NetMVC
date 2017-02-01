@@ -1,0 +1,142 @@
+﻿@model Geodeta.Data.Area
+
+@{
+    ViewBag.Title = "Delete";
+}
+<h2>Delete</h2>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<!-- This css is to ensure that the google map contols (zoom bar etc) show and size correctly. -->
+<style>
+    #map_canvas img {
+        max-width: none;
+    }
+</style>
+
+<!-- This css is to give a nice big popup "info window" when a marker is clicked on the map -->
+<style>
+    .infoDiv {
+        height: 200px;
+        width: 300px;
+        -webkit-user-select: none;
+        background-color: white;
+    }
+</style>
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Obszar</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UserId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UserId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DateMod)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DateMod)
+    </div>
+    <div id="map_canvas" style="height: 600px;"></div>
+    @Html.HiddenFor(model => model.ID)
+</fieldset>
+using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<section class="scripts">
+
+<script type="text/javascript">
+
+    <!-- This code tells the browser to execute the "Initialize" method only when the complete document model has been loaded. -->
+    $(document).ready(function () {
+        Initialize();
+    });
+    var poly, map;
+    var markers = [];
+    var m = [];
+    var path = new google.maps.MVCArray;
+    // Where all the fun happens 
+    function Initialize() {
+
+        var postion = new google.maps.LatLng(51.476706, 0);
+
+        map = new google.maps.Map(document.getElementById("map_canvas"), {
+            zoom: 14,
+            center: postion,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+        onFormSubmit();
+
+        poly = new google.maps.Polygon({
+
+            strokeColor: "#FF0000",
+            strokeOpacity: 0.8,
+            strokeWeight: 2,
+            fillColor: "#FF0000",
+            fillOpacity: 0.35,
+            map: map
+        });
+        poly.setMap(map);
+        poly.setPaths(new google.maps.MVCArray([path]));
+
+    }
+          
+        var id2 = document.getElementById('ID').value;
+        
+        function onFormSubmit() {
+            //$("#form").submit();
+           
+            $.ajax({
+                url: '/Obszar/GetPoints',
+                type: 'GET',
+                data:{id:id2},
+                dataType: 'json',
+                success: function (data) {
+                    
+                    $.each(data, function (index, Point) {
+                       
+                        var postion2 = new google.maps.LatLng(Point.CoordinateX, Point.CoordinateY);
+                        path.insertAt(path.length, new google.maps.LatLng(Point.CoordinateX, Point.CoordinateY));
+                        var marker = new google.maps.Marker({
+                            position:postion2,
+                            map: map,
+                            icon: {
+                                path: google.maps.SymbolPath.CIRCLE,
+                                scale: 5,
+                                strokeColor: "#FF0000",
+                                strokeOpacity: 0.8,
+                                strokeWeight: 2,
+                                fillColor: "#FFFFFF",
+                                fillOpacity: 1
+                            }
+                        });
+                        markers.push(marker);
+                        marker.setTitle("#" + path.length);
+                    });
+                }
+            });
+
+        }
+           
+   
+
+</script>
+</section>
+}

@@ -1,0 +1,8 @@
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Release\Geodeta.Data.dll.config
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Release\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Release\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Release\EntityFramework.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\bin\Release\EntityFramework.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\obj\Release\Geodeta.Data.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\obj\Release\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Geodeta.Data\obj\Release\Geodeta.Data.pdb

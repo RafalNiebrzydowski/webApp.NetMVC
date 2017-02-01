@@ -1,0 +1,480 @@
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Inzynierka.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Inzynierka.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Antlr3.Runtime.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.Core.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\EntityFramework.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Services.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.Edm.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.OData.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Mvc.Mailer.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Newtonsoft.Json.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.Mvc.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Spatial.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Helpers.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.OData.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Mvc.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Optimization.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Razor.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebGrease.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.Data.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.WebData.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Data.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Geodeta.Services.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\EntityFramework.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\PagedList.Mvc.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Newtonsoft.Json.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Helpers.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Mvc.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Razor.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.Data.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\WebMatrix.WebData.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.Core.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.OData.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.Edm.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\Microsoft.Data.OData.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Spatial.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\de\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\es\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\fr\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\it\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ja\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ko\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\ru\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Geodeta.Web.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Inzynierka.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Inzynierka.pdb
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Net.Http.Formatting.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.WebHost.dll
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Net.Http.Formatting.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\bin\System.Web.Http.WebHost.xml
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Inzynierka.Properties.Resources.resources
+C:\Users\rafal_000\Documents\Visual Studio 2012\Projects\Inzynierka\Inzynierka\obj\Debug\Geodeta.Web.csproj.GenerateResource.Cache
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Inzynierka.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Inzynierka.pdb
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Antlr3.Runtime.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.Core.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\EntityFramework.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Geodeta.Data.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Geodeta.Services.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Data.Edm.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Data.OData.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Mvc.Mailer.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Newtonsoft.Json.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\PagedList.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\PagedList.Mvc.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Net.Http.Formatting.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Spatial.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Helpers.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Http.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Http.OData.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Http.WebHost.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Mvc.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Optimization.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Razor.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.WebPages.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\WebGrease.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\WebMatrix.Data.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\WebMatrix.WebData.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Geodeta.Data.pdb
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Geodeta.Services.pdb
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\EntityFramework.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Newtonsoft.Json.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\PagedList.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\PagedList.Mvc.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Net.Http.Formatting.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Http.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Http.WebHost.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Helpers.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Mvc.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Razor.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.WebPages.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\WebMatrix.Data.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\WebMatrix.WebData.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.Core.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Web.Http.OData.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Data.Edm.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\Microsoft.Data.OData.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\System.Spatial.xml
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\de\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\es\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\fr\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\it\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ja\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ko\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\ru\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\obj\Debug\Geodeta.Web.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\obj\Debug\Inzynierka.Properties.Resources.resources
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\obj\Debug\Geodeta.Web.csproj.GenerateResource.Cache
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\obj\Debug\Inzynierka.dll
+C:\Users\rafal_000\Desktop\Płyta\Aplikacja internetowa\Kod źródłowy\Inzynierka\obj\Debug\Inzynierka.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Inzynierka.dll.config
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Inzynierka.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Inzynierka.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Antlr3.Runtime.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.AspNet.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.Core.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\EntityFramework.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Geodeta.Data.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Geodeta.Services.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Data.Edm.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Data.OData.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Mvc.Mailer.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Newtonsoft.Json.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\PagedList.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\PagedList.Mvc.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Net.Http.Formatting.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Spatial.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Helpers.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Http.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Http.OData.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Http.WebHost.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Mvc.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Optimization.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Razor.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Deployment.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Razor.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\WebGrease.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\WebMatrix.Data.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\WebMatrix.WebData.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Geodeta.Data.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Geodeta.Services.pdb
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\EntityFramework.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Newtonsoft.Json.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\PagedList.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\PagedList.Mvc.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Net.Http.Formatting.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Http.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Http.WebHost.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Helpers.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Mvc.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Razor.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Deployment.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Razor.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\WebMatrix.Data.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\WebMatrix.WebData.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.AspNet.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.Core.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Web.Http.OData.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Data.Edm.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\Microsoft.Data.OData.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\System.Spatial.xml
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\de\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\es\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\it\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\de\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\es\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\fr\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\it\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ja\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ko\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\ru\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\zh-Hans\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\bin\zh-Hant\System.Spatial.resources.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\obj\Debug\Geodeta.Web.csprojResolveAssemblyReference.cache
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\obj\Debug\Inzynierka.Properties.Resources.resources
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\obj\Debug\Geodeta.Web.csproj.GenerateResource.Cache
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\obj\Debug\Inzynierka.dll
+E:\Studia\Studia semVII\Wszystko do inzynierki\Płyta\application\applicationWeb\src\Inzynierka\obj\Debug\Inzynierka.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Inzynierka.dll.config
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Inzynierka.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Inzynierka.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Antlr3.Runtime.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.Core.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\EntityFramework.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Geodeta.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Geodeta.Services.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Data.Edm.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Data.OData.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Mvc.Mailer.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Newtonsoft.Json.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\PagedList.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\PagedList.Mvc.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Net.Http.Formatting.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Spatial.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Helpers.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Http.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Http.OData.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Http.WebHost.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Mvc.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Optimization.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Razor.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\WebGrease.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\WebMatrix.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\WebMatrix.WebData.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Geodeta.Data.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Geodeta.Services.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\EntityFramework.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Newtonsoft.Json.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\PagedList.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\PagedList.Mvc.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Net.Http.Formatting.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Http.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Http.OData.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Http.WebHost.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Helpers.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Mvc.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.Razor.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\WebMatrix.Data.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\WebMatrix.WebData.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.Core.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Data.Edm.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\Microsoft.Data.OData.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\System.Spatial.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\de\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\es\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\fr\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\it\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ja\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ko\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\ru\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\obj\Debug\Geodeta.Web.csprojResolveAssemblyReference.cache
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\obj\Debug\Inzynierka.Properties.Resources.resources
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\obj\Debug\Geodeta.Web.csproj.GenerateResource.Cache
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\obj\Debug\Inzynierka.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Inzynierka\obj\Debug\Inzynierka.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Inzynierka.dll.config
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Inzynierka.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Inzynierka.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Antlr3.Runtime.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\EntityFramework.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Geodeta.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Geodeta.Services.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Data.OData.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Mvc.Mailer.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Newtonsoft.Json.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\PagedList.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\PagedList.Mvc.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Spatial.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Helpers.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Http.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Http.OData.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Mvc.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Optimization.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Razor.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.WebPages.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\WebGrease.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\WebMatrix.Data.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\WebMatrix.WebData.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Geodeta.Data.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Geodeta.Services.pdb
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\EntityFramework.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Newtonsoft.Json.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\PagedList.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\PagedList.Mvc.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Http.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Http.OData.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Helpers.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Mvc.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.Razor.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.WebPages.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\WebMatrix.Data.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\WebMatrix.WebData.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\Microsoft.Data.OData.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\System.Spatial.xml
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\de\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\es\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\it\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\obj\Debug\Geodeta.Web.csprojResolveAssemblyReference.cache
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\obj\Debug\Inzynierka.Properties.Resources.resources
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\obj\Debug\Geodeta.Web.csproj.GenerateResource.Cache
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\obj\Debug\Inzynierka.dll
+C:\Users\rafal\Desktop\applicationWeb\src\Geodeta.Web\obj\Debug\Inzynierka.pdb

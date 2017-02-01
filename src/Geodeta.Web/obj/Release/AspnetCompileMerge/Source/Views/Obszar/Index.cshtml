@@ -1,0 +1,142 @@
+﻿@model PagedList.IPagedList<Geodeta.Services.Area>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Zarządzanie obszarami";
+}
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+<h2>Zarządzanie obszarami
+</h2>
+
+
+<style>
+    .infoDiv {
+        height: 200px;
+        width: 300px;
+        -webkit-user-select: none;
+        background-color: white;
+    }
+</style>
+
+<div>
+<p style="font-weight: bold;float:left">
+    <button type="button" class="btn btn-default btn-circle btn-lg " style="margin-right:5px;" onclick="location.href='@Url.Action("Create", "Obszar")';return false;"><i class="glyphicon glyphicon-plus"></i></button>
+    Stwórz nowy obszar
+</p>
+@using (Html.BeginForm())
+{
+
+<p style="font-weight: bold;float:right">
+        Szukaj: @Html.TextBox("SearchString") 
+        <button type="submit" class="btn btn-default btn-circle" value="Search" ><i class="glyphicon glyphicon-search"></i></button></p>
+}
+    </div>
+<table class="table table-striped custab"  >
+    <thead>
+
+        <tr>
+            <th >
+                @Html.ActionLink("Nazwa", "Index", new { sortOrder = ViewBag.NameSortParm })
+            </th>
+            <th >@Html.ActionLink("Data modyfikacji", "Index", new { sortOrder = ViewBag.DateSortParm  })
+            </th>
+            <th style="width: 80px">Edycja
+            </th>
+            <th style="width: 80px">Podgląd
+            </th>
+            <th style="width: 80px">Usuwanie
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateMod)
+            </td>
+            <td>
+
+                <button type="button" class="btn btn-default btn-circle" onclick="location.href='@Url.Action("Edit", "Obszar", new { id = item.ID })';return false;"><i class="glyphicon glyphicon-edit"></i></button>
+            </td>
+            <td>
+                <button type="button" class="btn btn-default btn-circle"  onclick="location.href='@Url.Action("Details", "Obszar", new { id = item.ID })';return false;"><i class="glyphicon glyphicon-folder-open"></i></button>
+            </td>
+            <td>
+                <button type="button" class="btn btn-default btn-circle" onclick="openModal(@item.ID)"><i class="glyphicon glyphicon-remove"></i></button>
+
+            </td>
+        </tr>
+    }
+
+</table>
+<div class="container" style="margin-bottom:5%;">
+<div style="float:left;">
+    <p style="font-weight: bold">
+Strona @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) z @Model.PageCount
+        </p>
+   </div>
+     <div style="float:right;margin-right:20px">
+@Html.PagedListPager(Model, page => Url.Action("Index", 
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+    </div>
+    </div>
+   <div class="modal fade" id="DeleteArea" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="myModalLabel">Usuwanie obszaru</h4>
+            </div>
+            <label style="display: block; text-align: center; color: #EB7261" id="tekst">Czy napewno chcesz usunąć obszar?</label>
+
+            <input type="hidden" id="AreaId" />
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Nie</button>
+                <button type="button" class="btn btn-primary" onclick="DeleteArea()">Tak</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+<script type="text/javascript" src="~/Scripts/jquery.dataTables.min.js"></script>
+    <section class="scripts">
+
+        <script type="text/javascript">
+
+            function openModal(id) {
+                jQuery.noConflict();
+                $('#DeleteArea').modal('show');
+
+                document.getElementById("AreaId").value = id;
+            }
+
+            function DeleteArea() {
+                $.ajax({
+                    url: '/Obszar/Delete',
+                    type: 'POST',
+                    dataType: 'json',
+                    async: false,
+                    data: { id: document.getElementById("AreaId").value },
+                    success: function (response) {
+                        if (response.Success) {
+
+                            window.location.href = '@Url.Action("Index", "Obszar")';
+                            
+
+                        }
+                    }
+                });
+            }
+           
+        </script>
+       
+    </section>
+}
+

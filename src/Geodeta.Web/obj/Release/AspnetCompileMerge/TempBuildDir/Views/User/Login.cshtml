@@ -1,0 +1,37 @@
+﻿@model Geodeta.Services.User
+
+@{
+    ViewBag.Title = "Błąd logowania";
+}
+
+
+<div class="container" style="margin-top:5px">
+    <div class="headdiv" style="text-align:center; background-color:#E81414; height:60px;margin-bottom:30px" id="button4">@Html.ValidationSummary(true,"Nieprawidłowy e-mail lub hasło!", new { @style="color:#fff;!important"}) @Html.ValidationMessageFor(m => m.Email,String.Empty, new { @style="color:#fff;!important"}) @Html.ValidationMessageFor(m => m.Password,String.Empty, new { @style="color:#fff;!important"})</div>
+ <div class="row">
+            <div class="span3 text-center">
+                <button type="button" class="btn btn-default btn-circle btn-xl " onclick="location.href='@Url.Action("Register", "User")';return false;"><i class="glyphicon glyphicon-registration-mark"></i></button>
+                <h2>Rejestracja</h2>
+                <p>Załóż konto, aby móc korzystać z pełni serwisu i tworzyć własne obszary.</p>
+            </div>
+            <div class="span3 text-center">
+                <button type="button" class="btn btn-default btn-circle btn-xl"><i class="glyphicon glyphicon-phone"></i></button>
+                <h2>Aplikacja Android</h2>
+                <p>Pobierz aplikacje na telefon z androidem, aby dodawać obszary gdziekolwiek jesteś.</p>
+
+            </div>
+            <div class="span3 text-center">
+                <button type="button" class="btn btn-default btn-circle btn-xl"><i class="glyphicon glyphicon-info-sign"></i></button>
+                <h2>O nas</h2>
+                <p>Abdhsad fdsbfdsfhjsdf dfbsdgfsdbhfbsd fdshbfsdhfbusdbfuysf dgsfsgdufybsudf hdsfbgsdbufbusbfuyuyfd.</p>
+            </div>
+            <div class="span3 text-center">
+                <button type="button" class="btn btn-default btn-circle btn-xl"><i class="glyphicon glyphicon-flag"></i></button>
+                <h2>Pomoc</h2>
+                <p>Informacje o tworzeniu i zarządzaniu obszarami.</p>
+            </div>
+        </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
