@@ -1,4 +1,7 @@
 # webApp.NetMVC
+
+The project was created on studies.
+
 ![stronaglowna](https://cloud.githubusercontent.com/assets/25387287/22542570/bed13b54-e92c-11e6-974a-018c36e79bd6.png)
 ![stronauzytkownika](https://cloud.githubusercontent.com/assets/25387287/22542574/c29ef938-e92c-11e6-995d-85fbd1da11cd.png)
 ![obszart](https://cloud.githubusercontent.com/assets/25387287/22542576/c73b6ecc-e92c-11e6-9140-d5eefa1f8271.png)
